@@ -1,0 +1,30 @@
+p {
+    color:rgb(244, 70, 70);
+    font-size:20px;
+}
+.standout{
+    color: aquamarine;
+}
+.image1
+{
+    border-radius:50%;
+}
+.image2
+{
+    border-radius:30px;
+}
+
+.image3
+{
+    opacity:0.5;
+}
+
+.image4:hover
+{
+    filter:grayscale(80%);
+}
+
+.image5
+{
+    filter:blur(30px);
+}
